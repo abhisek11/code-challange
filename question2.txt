@@ -1,0 +1,11 @@
+Question 2.  JavaScript    In ​JavaScript​, answer if the following expressions result in true or false (and explain your  answer) 
+ 
+a. “0” == 0 // true or false?
+b. “” == 0 // true or false?
+c. “” == “0” // true or false? 
+
+Answere:---------------------------
+
+1> Option a return False as string value zero and integer value zero cannot be equal as they both belong from  different data type
+2> Option b return False as null string value and integer value zero cannot be equal as they both belong from  different data type
+3> option c “” == “0” though both are of same data type it return False because of character missmaching 
